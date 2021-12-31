@@ -1,0 +1,65 @@
+.atas{
+    display: flex;
+}
+
+.adalam{
+    margin: 50px 100px;
+}
+
+img{
+    margin-top: 70px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+}
+
+.nama{
+    font-size: 20px;
+}
+
+.kanan{
+    text-align: right;
+}
+
+.isi{
+    margin: 50px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+video{
+    width: 350px;
+    height: 300px;
+    margin-left: 50px;
+    margin-right: 0px;
+}
+
+.foto{
+    display: flex;
+    margin-left: 0px;
+    width: 220px;
+    height: 170px;
+}
+
+footer{
+    display: flex;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+    margin-left: 100px;
+}
+
+.link{
+    margin: 50px 150px;
+    width: 350px;
+    height: 300px;
+}
+
+#link{
+    width: 300px;
+    height: 230px;
+
+}
+
+#peng{
+    text-align: left;
+}
